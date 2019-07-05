@@ -44,6 +44,14 @@
       "id": "8A90DE86-4CE6-41EE-B436-99D1322B88D5"
     },
     {
+      "class": "rectangle",
+      "id": "F507398E-486E-4B12-A00B-279327C3C21D"
+    },
+    {
+      "class": "oval",
+      "id": "B0C49C19-88F3-4EF4-8798-57EC58A17D80"
+    },
+    {
       "class": "oval",
       "id": "BC96DA50-D5C6-425B-B654-7527BCD75F00"
     }
