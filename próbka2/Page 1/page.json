@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "fcc887f0-9f19-11e9-9a7d-59e5e5c527d7",
+  "do_objectID": "aa36b970-9f1a-11e9-9a7d-59e5e5c527d7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -41,19 +41,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "BBEF9569-1050-45A4-9B8A-C1D2F5E42340"
+      "id": "8A90DE86-4CE6-41EE-B436-99D1322B88D5"
     },
     {
-      "class": "text",
-      "id": "F964BFAF-9615-4738-9DA5-CD1F38DF3C5A"
-    },
-    {
-      "class": "rectangle",
-      "id": "8C1A3063-A9FB-4496-ABFB-A4F95470BF1B"
-    },
-    {
-      "class": "rectangle",
-      "id": "E0C06515-86CF-4A3B-9BBD-05021F380461"
+      "class": "oval",
+      "id": "BC96DA50-D5C6-425B-B654-7527BCD75F00"
     }
   ],
   "name": "Page 1",
@@ -67,7 +59,7 @@
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",
